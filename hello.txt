@@ -1,7 +1,4 @@
 hello, git!!!
 hello, git!!!
-<<<<<<< HEAD
 hello, git!!! master test!
-=======
-hello, git!!!hot-fix test!
->>>>>>> 7164176 (hot-fix commit)
+hello, git!!! hot-fix test!
